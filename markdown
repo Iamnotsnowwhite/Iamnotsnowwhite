@@ -3,3 +3,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&show_icons=true&theme=radical)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
