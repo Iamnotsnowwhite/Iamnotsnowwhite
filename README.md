@@ -1,12 +1,18 @@
-## Hi there 👋
+## Hi there, welcome to my GitHub!! 👋
+
 
 <!--
 **Iamnotsnowwhite/Iamnotsnowwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently preparating my exams in college 
+🌱 I’m currently studying on Freie university berlin
+📫 How to reach me: ....
+💬 you can also find me on:
+Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
+Instagram: 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
