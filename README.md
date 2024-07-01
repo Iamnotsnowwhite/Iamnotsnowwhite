@@ -4,6 +4,7 @@
 - 🌱 I’m currently studying on Freie university berlin
 - 📫 How to reach me: ....
 - 💬 you can also find me on:
+- my personal website: comming soon...
 - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
 - Instagram: 
 
