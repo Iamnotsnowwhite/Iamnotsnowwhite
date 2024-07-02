@@ -1,12 +1,11 @@
 ## Hi there, welcome to my GitHub!! 👋
 
-- 🔭 I’m currently preparating my exams in college 
-- 🌱 I’m currently studying on Freie university berlin
-- 📫 How to reach me: ....
+- 🔭 I’m currently preparing for my exams in college.
+- 🌱 I’m studying at Freie Universität Berlin.
 - 💬 you can also find me on:
-- my personal website: comming soon...
-- Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
-- Instagram: 
+-- my personal website: comming soon...
+-- Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
+-- Instagram: 
 
 <!--
 **Iamnotsnowwhite/Iamnotsnowwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
