@@ -7,7 +7,7 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
   - Instagram:
   
-# My GitHub Stats
+## Zhao's GitHub Stats
 ![Zhao's stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&show_icons=true&theme=radical)
 <!--
 **Iamnotsnowwhite/Iamnotsnowwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
