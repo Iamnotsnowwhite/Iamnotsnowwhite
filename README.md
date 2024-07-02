@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently preparing for my exams in college.
 - 🌱 I’m studying at Freie Universität Berlin.
-- 💬 you can also find me on:
+- 💬 you can find me on:
   - my personal website: comming soon...
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
   - Instagram:
