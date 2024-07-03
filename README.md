@@ -9,8 +9,7 @@
 - 💬 you can find me on:
   - my personal website: comming soon...
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
-  - Instagram:
-
+    
 ## Zhao's GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamnotsnowwhite&theme=tokyonight)
 ![Zhao's stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&show_icons=true&theme=radical)
