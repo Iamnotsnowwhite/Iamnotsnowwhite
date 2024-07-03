@@ -1,5 +1,14 @@
 ## Hi there, welcome to my GitHub!! 👋
-![Static Badge](https://img.shields.io/badge/%20Instagram%3A%40guoguo______%20-%20pink?style=flat&logo=Instagram)
+
+![Static Badge](https://img.shields.io/badge/%40guoguo______%20-%20pink?style=flat&logo=Instagram)
+
+![Static Badge](https://img.shields.io/badge/Telegram%20-%20peach?style=flat&logo=Telegram&logoColor=%23E34234&color=%23FFBF00)
+
+![Static Badge](https://img.shields.io/badge/Signal-yellow?style=flat&logo=Signal&logoColor=%23F4C430&color=%23FFE5B4)
+
+![Static Badge](https://img.shields.io/badge/Whatsapp%20-%20lightblue?style=flat&logo=Whatsapp&logoColor=blue)
+
+
 
 - 🔭 I’m currently preparing for my exams in college.
 - 🌱 I’m studying at Freie Universität Berlin.
