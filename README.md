@@ -8,6 +8,9 @@
 
 ![Static Badge](https://img.shields.io/badge/Whatsapp%20-%20lightblue?style=flat&logo=Whatsapp&logoColor=blue)
 
+![Static Badge](https://img.shields.io/badge/Whatsapp%20-%20green?style=flat&logo=Whatsapp&logoColor=%23006400&color=%23BCE954)
+
+![Static Badge](https://img.shields.io/badge/WeChat-%20purple?style=flat&logo=WeChat&logoColor=%23A865B5&color=%23D8BFD8)
 
 
 - 🔭 I’m currently preparing for my exams in college.
