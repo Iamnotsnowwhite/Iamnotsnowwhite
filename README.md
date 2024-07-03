@@ -19,8 +19,8 @@ You are my
 visitors! Thank you!!!!
 
 ## my skills:
-![Static Badge](https://img.shields.io/badge/Python%20-%20lightblue?style=flat&logo=Python&logoColor=blue) 
 ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-%20pink?style=flat&logo=C&logoColor=%23D470A2&color=%23FFD8F0)
+![Static Badge](https://img.shields.io/badge/Python%20-%20lightblue?style=flat&logo=Python&logoColor=blue) 
 
 
 <!--
