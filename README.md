@@ -16,6 +16,8 @@ You are my
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 visitors! Thank you!!!!
 
+## my skills:
+https://img.shiields.io/badge/Lang-JavaScript-yellowgreen
 
 **Iamnotsnowwhite/Iamnotsnowwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
