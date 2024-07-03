@@ -13,7 +13,6 @@
 ## Zhao's GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamnotsnowwhite&layout=compact&theme=tokyonight)
 ![Zhao's stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&show_icons=true&theme=radical)
-<!--
 
 You are my 
 ![Visitor Count](https://profile-counter.glitch.me/Iamnotsnowwhite/count.svg)
@@ -22,6 +21,7 @@ visitors! Thank you!!!!
 ## my skills:
 - https://img.shiields.io/badge/Lang-JavaScript-yellowgreen
 
+<!--
 **Iamnotsnowwhite/Iamnotsnowwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
