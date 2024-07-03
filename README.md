@@ -11,12 +11,12 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamnotsnowwhite&layout=compact&theme=tokyonight)
 ![Zhao's stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&show_icons=true&theme=radical)
 <!--
 
 You are my 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Iamnotsnowwhite/count.svg)
 visitors! Thank you!!!!
 
 ## my skills:
