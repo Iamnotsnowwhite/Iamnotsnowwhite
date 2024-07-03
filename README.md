@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently preparing for my exams in college.
 - 🌱 I’m studying at Freie Universität Berlin.
-- - 📫 How to reach me: guoguo_is_on_work@hotmail.com
+- 📫 How to reach me: guoguo_is_on_work@hotmail.com
 - 💬 you can find me on:
   - my personal website: comming soon...
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
