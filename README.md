@@ -8,7 +8,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Whatsapp%20-%20lightblue?style=flat&logo=Whatsapp&logoColor=blue)
 
-![Static Badge](https://img.shields.io/badge/Whatsapp%20-%20green?style=flat&logo=Whatsapp&logoColor=%23006400&color=%23BCE954)
+![Static Badge](https://img.shields.io/badge/GitLab-%20green?style=flat&logo=GitLab&logoColor=%2341a317&color=%2399c68e)
 
 ![Static Badge](https://img.shields.io/badge/WeChat-%20purple?style=flat&logo=WeChat&logoColor=%23A865B5&color=%23D8BFD8)
 
