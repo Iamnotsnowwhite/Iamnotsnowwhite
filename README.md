@@ -1,4 +1,5 @@
 ## Hi there, welcome to my GitHub!! 👋
+![Static Badge](https://img.shields.io/badge/%20Instagram%3A%40guoguo______%20-%20pink?style=flat&logo=Instagram)
 
 - 🔭 I’m currently preparing for my exams in college.
 - 🌱 I’m studying at Freie Universität Berlin.
