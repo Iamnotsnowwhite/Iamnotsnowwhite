@@ -19,7 +19,9 @@ You are my
 visitors! Thank you!!!!
 
 ## my skills:
-- https://img.shiields.io/badge/Lang-JavaScript-yellowgreen
+![Static Badge](https://img.shields.io/badge/Python%20-%20lightblue?style=flat&logo=Python&logoColor=blue) 
+![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-%20pink?style=flat&logo=C&logoColor=%23D470A2&color=%23FFD8F0)
+
 
 <!--
 **Iamnotsnowwhite/Iamnotsnowwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
